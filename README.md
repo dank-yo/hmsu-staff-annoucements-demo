@@ -8,4 +8,4 @@ If you need access to the private
 
 https://github.com/dank-yo/hmsu-staff-annoucements
 
-please talk to Joel (or current supervisor) to text me.
+please talk to Joel (or current supervisor) and ask them to text me.
