@@ -6,6 +6,9 @@ Linux, Apache, MariaDB, PHP
 
 ## If you need access to the private 
 
-Link: https://github.com/dank-yo/hmsu-staff-annoucementsplease 
+Link: 
+- https://github.com/dank-yo/hmsu-staff-annoucementsplease 
 
-talk to Joel (or current supervisor) and ask them to text me.
+Talk to Joel (or current supervisor) and ask them to text me, or email me @ 
+
+- dankasnick@hotmail.com
