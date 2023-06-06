@@ -1,11 +1,11 @@
-# hmsu-staff-annoucements-demo
-This is the staff annoucements demo public src code.
+# HMSU Staff Annoucements Demo
+This is the staff annoucements demo public src code. This is a modified version of the original src code and should NOT be used on the ISU servers. This was a modified version of the original to serve as a live demonstration of the project. 
 
-Written with the LAMP stack 
+Linux, Apache, MariaDB, PHP 
 
 
-If you need access to the private 
+## If you need access to the private 
 
-https://github.com/dank-yo/hmsu-staff-annoucements
+Link: https://github.com/dank-yo/hmsu-staff-annoucementsplease 
 
-please talk to Joel (or current supervisor) and ask them to text me.
+talk to Joel (or current supervisor) and ask them to text me.
